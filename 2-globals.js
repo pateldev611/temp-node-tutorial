@@ -1,0 +1,2 @@
+sayhi(peter)
+sayhi(john)
